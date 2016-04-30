@@ -7,7 +7,7 @@ Books of TUNA Library
 | --- | --- | --- |
 | An Introduction to Functional Programming Through Lambda Calculus | Greg Michaelson |
 | 代码的未来 | 松本行弘 | 
-| Pythong for Data Analysis | Wes McKinney |
+| Python for Data Analysis | Wes McKinney |
 | 实用Commong Lisp编程 | Peter Seibel |
 | 松本行弘的程序世界 | 松本行弘 |
 | 计算机程序的构造和解释(SICP) | 裘宗燕 |
