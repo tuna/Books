@@ -6,7 +6,7 @@
 | The Go Programming Language | Alan A.A.Donovan | @walkerning |
 | PCI Express体系结构导读  | 王齐 |  |
 | 计算机网络:自顶向下方法 | James F.Kurose | @xavieryao |
-|    |     | @lindaZ1 |
+| Learning Web App Development  | Semmy Purewal  | @lindaZ1 |
 | An Introduction to Functional Programming Through Lambda Calculus | Greg Michaelson | |
 | 代码的未来 | 松本行弘 | |
 | Python for Data Analysis | Wes McKinney | |
