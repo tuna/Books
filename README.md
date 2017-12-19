@@ -4,7 +4,7 @@ Books of TUNA Library
 # Available Books
 
 | Book Title   | Author | 
-| --- | --- | --- |
+| --- | --- |
 | An Introduction to Functional Programming Through Lambda Calculus | Greg Michaelson |
 | 代码的未来 | 松本行弘 | 
 | Python for Data Analysis | Wes McKinney |
