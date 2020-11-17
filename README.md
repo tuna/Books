@@ -22,6 +22,7 @@ Books are distributed among local TUNA members. Students or faculty of Tsinghua 
 | 松本行弘的程序世界 | 松本行弘 |
 | 计算机程序的构造和解释(SICP) | 裘宗燕 |
 | Masterminds of Programming | Federico Biancuzzi |
+| openEuler 操作系统 | 任炬 |
 
 Please look for the current holder at [here](https://github.com/tuna/Books/blob/master/book_status.md).
 
